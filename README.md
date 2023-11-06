@@ -15,4 +15,4 @@ It is available for download from the [official Python website](https://www.pyth
 
 ### Installing
 
-Clone the repository: https://github.com/FudeezValo/rock-paper-scissors.git
+Clone the repository: https://github.com/FudeezValo/RPS_gameplauy.git
